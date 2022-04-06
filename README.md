@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+You can find me: 🌐
+## ![JulianMontu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianMontu&show_icons=true&theme=codeSTACKr)
+
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianMontu&layout=compact)](https://github.com/JulianMontu/JulianMontu.git)
+
+
 <!--
 **JulianMontu/JulianMontu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
