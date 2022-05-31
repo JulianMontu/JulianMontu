@@ -14,7 +14,6 @@ I am constantly learning about new technologies in the world of development
 - CSS
 - Angular
 - MongoDB
-- php
 ### Programming Languages :scroll:
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
@@ -22,7 +21,7 @@ I am constantly learning about new technologies in the world of development
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
+ 
 
 
 
