@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Julian Montufar 👨‍💻 
 ### About me:
-I am a student in a technology in software development about to finish and get my degree
+I work in a startup
+providing solutions to the errors reported by the application
 I am constantly learning about new technologies in the world of development
 - I'm Colombian
 - 🧑‍💻19 years old
