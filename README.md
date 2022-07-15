@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Julian Montufar 👨‍💻 
 ### About me:
 I work in a startup
-providing solutions to the errors reported by the application
+providing solutions to the errors reported by the application.
+###
 I am constantly learning about new technologies in the world of development
 - I'm Colombian
 - 🧑‍💻19 years old
