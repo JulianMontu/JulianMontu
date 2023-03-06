@@ -5,7 +5,7 @@ providing solutions to the errors reported by the application.
 ###
 I am constantly learning about new technologies in the world of development
 - I'm Colombian
-- 🧑‍💻19 years old
+- 🧑‍💻20 years old
 
 ### ✔️ I'm currently learning
 - Python
