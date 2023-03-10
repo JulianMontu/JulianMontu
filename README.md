@@ -7,7 +7,7 @@ I am constantly learning about new technologies in the world of development
 - I'm Colombian
 - 🧑‍💻20 years old
 
-### ✔️ I'm currently learning
+### Skills :scroll:
 - Python
 - Java
 - C#
@@ -16,18 +16,11 @@ I am constantly learning about new technologies in the world of development
 - CSS
 - Angular
 - MongoDB
-### Programming Languages :scroll:
-
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
- 
-
-
-
-
+- SQL Server
+- Git
+- Jira
+- Sourcetree
+- Bitbuket
 
 ### You can find me: 🌐
 <a href="https://www.linkedin.com/in/juli%C3%A1n-andr%C3%A9s-mont%C3%BAfar-burbano-88460a204/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
