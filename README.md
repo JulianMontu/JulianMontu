@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Julian Montufar 👨‍💻 
 ### About me:
-I work in a startup
-providing solutions to the errors reported by the application.
+I Work of junior developer using .NET with C#, Angular, SQL Server, Jira, Git and Azure
 ###
 I am constantly learning about new technologies in the world of development
 - I'm Colombian
