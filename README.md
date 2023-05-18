@@ -26,9 +26,10 @@ I am constantly learning about new technologies in the world of development
 
 ### You can find me: 🌐
 <a href="https://www.linkedin.com/in/juli%C3%A1n-andr%C3%A9s-mont%C3%BAfar-burbano-88460a204/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+
 ## ![JulianMontu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianMontu&show_icons=true&theme=codeSTACKr)
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianMontu&layout=compact)](https://github.com/JulianMontu/JulianMontu.git)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianMontu&hide_progress=true)](https://github.com/JulianMontu/JulianMontu.git)
 
 
 
