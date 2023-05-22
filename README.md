@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola a todos, soy Julian Montufar 👨‍💻</h1>
+<h1 align="center">👋 Hola, soy Julian Montufar 👨‍💻</h1>
 <h2 align="center">Junior Developer</h2> 
 
 - 🍃 Me gustar estar en continuo aprendizaje
