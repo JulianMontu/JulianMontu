@@ -23,9 +23,7 @@ I am constantly learning about new technologies in the world of development
 - .NET
 - NET MAUI
 - Azure
-- <script src="
-https://cdn.jsdelivr.net/npm/@angular-devkit/core@16.0.2/src/exception.min.js
-"></script>
+
 
 ### You can find me: 🌐
 <p><a href="https://www.linkedin.com/in/juli%C3%A1n-andr%C3%A9s-mont%C3%BAfar-burbano-88460a204/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
