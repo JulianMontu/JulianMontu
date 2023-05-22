@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hola, soy Julian Montufar 👨‍💻</h1>
-<h2 align="center">Junior Developer</h2> 
+<h1 align="center">👋 Hola, soy Julian Montufar </h1>
+<h2 align="center">Junior Developer 👨‍💻</h2> 
 
 - 🍃 Me gustar estar en continuo aprendizaje
 - 📖 Actualmente trabajo y me desempeño como backend-developer utilizando las tecnologias de .NET con C#, SQL Server, y Azure
