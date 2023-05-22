@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Julian Montufar 👨‍💻 
-### About me:
-I Work of junior developer using .NET with C#, Angular, SQL Server, Jira, Git and Azure
+<h1 align="center"> Hi there,👋 I'm Julian Montufar 👨‍💻</h1>
+<h2 align="center">Junior Developer</h2> 
+
 ###
 I am constantly learning about new technologies in the world of development
 - I'm Colombian
@@ -25,7 +25,12 @@ I am constantly learning about new technologies in the world of development
 - Azure
 
 ### You can find me: 🌐
-<a href="https://www.linkedin.com/in/juli%C3%A1n-andr%C3%A9s-mont%C3%BAfar-burbano-88460a204/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+<h3>Contáctame:</h3>
+<p><a href="https://www.linkedin.com/in/juli%C3%A1n-andr%C3%A9s-mont%C3%BAfar-burbano-88460a204/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
+
+
+<!-- not usage -->
+<!-- <a href="https://www.linkedin.com/in/juli%C3%A1n-andr%C3%A9s-mont%C3%BAfar-burbano-88460a204/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a> -->
 
 <!-- ## ![JulianMontu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianMontu&show_icons=true&theme=codeSTACKr) -->
 
