@@ -29,7 +29,7 @@ I am constantly learning about new technologies in the world of development
 
 <!-- ## ![JulianMontu's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianMontu&show_icons=true&theme=codeSTACKr) -->
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianMontu&hide_progress=true)](https://github.com/JulianMontu/JulianMontu.git)
+<!--## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianMontu&hide_progress=true)](https://github.com/JulianMontu/JulianMontu.git) -->
 
 
 
