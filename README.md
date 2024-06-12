@@ -2,8 +2,9 @@
 <h2 align="center">Backend Developer 👨‍💻</h2> 
 
 - 🍂 Me gustar estar en continuo aprendizaje
-- 📖 Actualmente trabajo y me desempeño como backend-developer utilizando las tecnologias de .NET con C#, SQL Server, y manejo de Appservices en Azure
-- 👨‍💻 Experiencia laboral como desarrollador Backend de 1 año y contando
+- 📖 Actualmente trabajo y me desempeño como fronted-developer utilizando tecnologias como angular
+- Tengo experiencia con tecnologias de .NET con C#, SQL Server, y manejo de Appservices en Azure
+- 👨‍💻 Experiencia laboral como desarrollador Backend de 2 año y contando
 
 <h3>Algunos lenguajes y herramientas que uso:</h3>
 <p>
