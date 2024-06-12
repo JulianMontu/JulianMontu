@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Julian Montufar </h1>
-<h2 align="center">Backend Developer 👨‍💻</h2> 
+<h2 align="center">Software Developer 👨‍💻</h2> 
 
 - 🍂 Me gustar estar en continuo aprendizaje
 - 📖 Actualmente trabajo y me desempeño como fronted-developer utilizando tecnologias como angular
