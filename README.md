@@ -4,7 +4,7 @@
 - 🍂 Me gustar estar en continuo aprendizaje
 - 📖 Actualmente trabajo y me desempeño como fronted-developer utilizando tecnologias como angular
 - Tengo experiencia con tecnologias de .NET con C#, SQL Server, y manejo de Appservices en Azure
-- 👨‍💻 Experiencia laboral como desarrollador Backend de 2 año y contando
+- 👨‍💻 Experiencia laboral como desarrollador Backend de 2 años y contando
 
 <h3>Algunos lenguajes y herramientas que uso:</h3>
 <p>
