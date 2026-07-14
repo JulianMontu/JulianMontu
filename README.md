@@ -19,8 +19,3 @@
   <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/azure/azure-original.svg" alt="azure" height="auto" width="30"/>
    <img align="center" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="azure" height="auto" width="30"/>
 </p>
-
-
-### Puedes encontrarme: 🌐
-<p><a href="https://www.linkedin.com/in/julian-andres-m-88460a204/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="30"/></a></p>
-
