@@ -2,7 +2,7 @@
 <h2 align="center">Software Developer 👨‍💻</h2> 
 
 - 🍂 Me gustar estar en continuo aprendizaje
-- 📖 Actualmente trabajo y me desempeño como fronted-developer utilizando tecnologias como angular haciendo uso practico de html, css y typescript
+- 📖 Actualmente trabajo y me desempeño como software-developer utilizando tecnologias como angular, flutter, claude, codex, copilot
 - 📑 Tengo experiencia con tecnologias de .NET con C#, Nest.js, SQL Server, y manejo de Appservices en Azure
 - 👨🏻‍💻 Experiencia laboral como desarrollador de 4 años y contando
 
